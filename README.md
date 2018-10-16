@@ -8,7 +8,7 @@ A two player platformer game where each player controls an ant avatar and try to
 Clone the project to your local device:
 
 ```
-git clone git@github.com:leor8/Ant-Racing.git
+git clone git@github.com:leor8/Ant-Racing-Final.git
 ```
 
 Then open the project with Unity App and start playing the game with your friends!
